@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Sobjiwala</string>
+
+
+    <string name="currency_sign">৳</string>
+    <string name="contact_us_address">410 Khasem Monjil North Bagbari, Sylhet 3100</string>
+    <string name="contact_us_email"><u>sobjiwala.com.bd@gmail.com</u></string>
+    <string name="admin_email">sobjiwala.com.bd@gmail.com</string>
+    <string name="admin_phone">+8801782448944</string>
+    <string name="contact_us_phone"><u>+8801782448944</u></string>
+
+    <string name="lbl_create_account">Don\'t have an account? Sign Up here.</string>
+    <string name="long_desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="phone">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="login_now">Login Now</string>
+    <string name="don_t_remember_password">Don\'t Remember password?</string>
+    <string name="dont_have_an_account">Don\'t have an account?</string>
+    <string name="sign_in_with_facebook">Sign in with Facebook</string>
+    <string name="or">or</string>
+
+    <string-array name="cancel_reason">
+        <item>Duplicate Order</item>
+        <item>Change of Delivery Address</item>
+        <item>Change of mind</item>
+        <item>Found Cheaper elsewhere</item>
+        <item>Decided for alternative product</item>
+        <item>Shipping fees</item>
+    </string-array>
+
+    <string-array name="time_slot">
+        <item>8:00 AM - 9.00 AM</item>
+        <item>9:00 AM - 10.00 AM</item>
+        <item>10:00 AM - 11.00 AM</item>
+        <item>11:00 AM - 12.00 PM</item>
+        <item>12:00 PM - 1.00 PM</item>
+        <item>1:00 PM - 2.00 PM</item>
+        <item>2:00 PM - 3.00 PM</item>
+        <item>3:00 PM - 4.00 PM</item>
+        <item>4:00 PM - 5.00 PM</item>
+        <item>5:00 PM - 6.00 PM</item>
+        <item>6:00 PM - 7.00 PM</item>
+        <item>7:00 PM - 8.00 PM</item>
+        <item>8:00 PM - 9.00 PM</item>
+        <item>9:00 PM - 10.00 PM</item>
+    </string-array>
+
+    <string name="cart_item_limit">20</string>
+
+</resources>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#3BB78F</color>
+    <color name="colorPrimaryDark">#0BAB64</color>
+    <color name="colorAccent">#3BB78F</color>
+    <color name="bg_row_background">#fa315b</color>
+
+    <color name="overlayBackground">#97333639</color>
+
+
+    <color name="discount_color">#fe5722</color>
+
+    <color name="colorPrimary1">#fe5722</color>
+    <color name="colorPrimaryDark1">#fe5722</color>
+    <color name="colorAccent1">#fe5722</color>
+    <color name="colorAndroidHive">#ffe01b</color>
+    <color name="toastMessageColor">#000000</color>
+    <color name="bgBottomNavigation">#fe485a</color>
+    <color name="hint_label">#fff</color>
+    <color name="green_color">#20ab2c</color>
+    <color name="button_bg">#e5293e</color>
+    <color name="colorLightRed">#ffcccb</color>
+    <color name="colorText_gray">#AFAFAF</color>
+
+    <color name="grey">#bfbfbf</color>
+    <color name="white">#fff</color>
+
+    <color name="grey_color">#D4D4D4</color>
+
+
+    <color name="colorPrimary2">#33b671</color>
+    <color name="colorPrimaryDark2">#319761</color>
+    <color name="colorAccent2">#fff</color>
+    <color name="colorAccent3">#a1a1a1</color>
+
+    //red color for java icon
+    <color name="colorPrimaryRed">#e64c3c</color>
+    <color name="colorPrimaryRedDark">#bc4438</color>
+
+
+    <!-- Screens background color-->
+    <color name="bg_screen1">#f64c73</color>
+    <color name="bg_screen2">#20d2bb</color>
+    <color name="bg_screen3">#3395ff</color>
+    <color name="bg_screen4">#c873f4</color>
+
+    <color name="title_text_color">#258bd6</color>
+    <color name="content_text_color">#999da4</color>
+
+    <color name="dots_active">#008577</color>
+    <color name="dots_inactive">#b3d4e7e1</color>
+
+    <!-- colors for button style -->
+
+    <color name="gradient_start_color">#4c84ff</color>
+    <color name="gradient_end_color">#18a3fe</color>
+
+
+    <!-- colors for tab and screent text -->
+
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="intro_title_color">#000000</color>
+    <color name="intro_description_color">#656565</color>
+
+    <color name="dark_blue">#3023AE</color>
+    <color name="purple">#c86dd7</color>
+
+    <color name="login_form_details">#ccffffff</color>
+    <color name="login_form_details_light">#1affffff</color>
+    <color name="login_form_details_medium">#66ffffff</color>
+
+    <color name="viewBg">#f1f5f8</color>
+    <color name="album_title">#4c4c4c</color>
+</resources>
